@@ -45,17 +45,17 @@
 
         <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
             <Button Content="Listar" Click="Button_Click_Listar" Width="100" Height="50" Margin="5" Background="#1E90FF"/>
-            <!-- Azul real -->
+
             <Button Content="Crear" Click="Button_Click_Crear" Width="100" Height="50" Margin="5" Background="#32CD32"/>
-            <!-- Verde lima -->
+
             <Button Content="Buscar" Click="Button_Click_Buscar" Width="100" Height="50" Margin="5" Background="#FFD700"/>
-            <!-- Amarillo -->
+            
             <Button Content="Actualizar" Click="Button_Click_Actualizar" Width="100" Height="50" Margin="5" Background="#FF4500"/>
-            <!-- Rojo anaranjado -->
+
             <Button Content="Eliminar" Click="Button_Click_Eliminar" Width="100" Height="50" Margin="5" Background="#FF0000"/>
-            <!-- Marrón oscuro -->
+
             <Button Content="Activar" Click="Button_Click_Activar" Width="100" Height="50" Margin="5" Background="#00CED1"/>
-            <!-- Azul verde -->
+
         </StackPanel>
 
 
